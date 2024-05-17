@@ -1,0 +1,10 @@
+Host github.com-neil
+  HostName github.com
+  IdentityFile ~/.ssh/id_ed25519
+  User 21Neil
+  IdentitiesOnly yes
+Host github.com-wedoit
+  HostName github.com
+  IdentityFile ~/.ssh/wedoit
+  User neil6807
+  IdentitiesOnly yes
