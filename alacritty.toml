@@ -1,0 +1,33 @@
+live_config_reload = true
+
+[shell]
+program = 'Ubuntu'
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+decorations = "None"
+
+padding.x = 0
+padding.y = 10
+
+opacity = 0.95
+blur = true
+
+dimensions.columns = 120
+dimensions.lines = 30
+position.x = 400
+position.y = 250
+
+[font]
+normal.family = "FiraCode NFM"
+size = 12
+
+[cursor]
+style.shape = "Underline"
+style.blinking = "On"
+thickness = 0.5
+
+[scrolling]
+history = 1000
